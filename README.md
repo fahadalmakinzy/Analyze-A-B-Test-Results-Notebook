@@ -1,5 +1,5 @@
 # Analyze A/B Test Results Notebook
-`*` This will use Python.
+We will use Jupyter Notebook.
 
 # Project Overview:
 `*` Understanding the results of an A/B test run by an e-commerce website.
